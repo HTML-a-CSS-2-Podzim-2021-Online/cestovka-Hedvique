@@ -1,0 +1,27 @@
+.novinky {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: 15% 1fr;
+    gap: 0.8rem;
+    margin: 1.5rem 0;
+}
+
+.novinky__nadpis--hlavni {
+    grid-column: 1 / -1;
+    color: black;
+}
+
+.novinky__nadpis {
+    color: var(--hlavni-barva);
+    margin: 0.1rem 0;
+}
+.novinky__clanek {
+    background-color: var(--pozadi-clanku);
+    padding: 0.8rem;
+}
+
+.datum {
+    color: grey;
+    font-weight: 500;
+    margin: 0.3rem 0;
+}

@@ -1,0 +1,27 @@
+:root {
+    --hlavni-barva: #F03000;
+    --pozadi-clanku: rgb(231, 236, 236);
+  }
+  
+  body {
+    font-family: 'Montserrat', sans-serif;
+    margin: auto;
+    padding: 1rem 6rem;
+  }
+  
+  h3 {
+    font-weight: 600;
+  }
+
+  
+
+  
+  
+
+  
+  
+  
+
+
+
+

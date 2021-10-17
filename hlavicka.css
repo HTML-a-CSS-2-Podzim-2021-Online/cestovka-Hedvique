@@ -1,0 +1,28 @@
+header {
+    display: flex;
+    gap: 0.8rem;
+    justify-content: space-between;
+}
+  
+h1 {
+    color: var(--hlavni-barva);
+    font-size: 2rem;
+}
+
+nav {
+    align-self: center;
+}
+
+.hlavicka__tlacitko {
+    color: var(--hlavni-barva);
+    background-color: white;
+    cursor: pointer;
+    font-weight: 700;
+    font-size: 0.9rem;
+    padding: 1rem;
+}
+
+.hlavicka__tlacitko:hover {
+    background-color: var(--hlavni-barva);
+    color: white;
+}

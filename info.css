@@ -1,0 +1,15 @@
+.info {
+    display: flex;
+    gap: 0.8rem; 
+  }
+
+.info-clanek {
+    background-color: var(--pozadi-clanku);
+    text-align: center;
+    padding: 0.8rem;
+    margin: 1.5rem 0;
+  }
+
+.info__nadpis {
+    color: var(--hlavni-barva);
+}
