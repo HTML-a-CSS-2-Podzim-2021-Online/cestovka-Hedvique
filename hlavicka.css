@@ -6,7 +6,7 @@ header {
   
 h1 {
     color: var(--hlavni-barva);
-    font-size: 2rem;
+    font-size: clamp(40px, 4vw, 60px);
 }
 
 nav {

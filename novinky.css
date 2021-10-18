@@ -24,4 +24,11 @@
     color: grey;
     font-weight: 500;
     margin: 0.3rem 0;
+}  
+
+@media screen and (max-width: 1050px) {
+    .novinky__nadpis--hlavni,
+    .novinky__clanek {
+        grid-column: 1 / -1;
+    }
 }
