@@ -59,7 +59,7 @@
    .zajezd-lastminute--hlavni {
     grid-column: 2 / -1;
     grid-row: 2 / -1;
-    background-image: url('/podklady/lodicka.jpg');
+    background-image: url("../cestovka-Hedvique/podklady/lodicka.jpg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
